@@ -22,17 +22,23 @@ This work is intended for **beginners** learning **cybersecurity and OS security
 
 ---
 
-## 🗂️ Folder Structure
+## 🧪 Tools & Technologies Used
 
-```text
-📁 operating-system-security
-│
-├── 📄 os_security_documentation.md
-│
-├── 📁 screenshots
-│   ├── 🖼️ linux_permissions.png
-│   ├── 🖼️ ufw_firewall_enabled.png
-│   └── 🖼️ windows_firewall_settings.png
-│
-└── 📄 README.md
+💻 Linux (Ubuntu)
+🪟 Windows OS
+🔥 UFW Firewall
+🛡️ Windows Defender Firewall
+📦 VirtualBox (for Linux VM)
+
+## ✅ Learning Outcomes
+After completing this project, you will be able to:
+Understand basic operating system security principles
+Manage file permissions securely in Linux
+Apply access control concepts
+Enable and verify firewall protection
+Document security configurations effectively
+
+## 📌 Conclusion
+
+This project provides a simple and structured introduction to Operating System Security. By combining documentation with screenshots, it helps learners clearly understand how security mechanisms work in real operating systems.
 
