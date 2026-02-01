@@ -1,6 +1,6 @@
 ## 📄 Project Report
 
-👉 [View Full Project Report (PDF)](
+👉 [View Full Project Report (PDF)](doc/Operating System Security Fundamentals.pdf)
 
 
 # Operating-System-Security-Fundamentals-Linux-Windows-
